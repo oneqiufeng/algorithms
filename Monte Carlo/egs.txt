@@ -1,0 +1,2 @@
+egs.txt
+Monte Carlo的一些基础知识，另外包括一个最简单的用Monte Carlo方法计算数值积分的例子。
